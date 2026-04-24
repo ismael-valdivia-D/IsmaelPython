@@ -26,3 +26,7 @@ for i in nombre:
     print(f"el total de letras es de {letras}")
 
 
+
+    
+
+
