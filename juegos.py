@@ -55,3 +55,12 @@ for i in range (juegos):
 
 print(f"hay {indie} juegos indie y {estudio} juegos de estudios")
 print(f"Tambien hay {tod} juegos de todas las edades , {adol} juegos para adolecentes y {mayo} juegos para mayores")
+
+
+
+
+
+
+
+
+
